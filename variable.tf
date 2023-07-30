@@ -1,3 +1,3 @@
-variable "account_id" {
-  type = any
+variable "condition" {
+  type = map(any)
 }
